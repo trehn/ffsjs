@@ -8,7 +8,7 @@ I find it annoying to have a `node_modules` directory full of crap I don't need:
 
 ## What does this thing do?
 
-ffsjs will download a given package from CDNJS and put it into the current directory. That's it. CDNJS trims down their packages to just the stuff one actually needs: often just some `*.min.js` and `*.min.css`. It gets rid of all the clutter for you.
+ffsjs will download a given package from [CDNJS](https://cdnjs.com) and put it into the current directory. That's it. CDNJS trims down their packages to just the stuff one actually needs: often just some `*.min.js` and `*.min.css`. It gets rid of all the clutter for you.
 
 ## How do I use it?
 

@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name="ffsjs",
     version="1.0.0",
-    description="bare bones JavaScript package manager for web developement",
+    description="bare bones JavaScript package manager for web development",
     author="Torsten Rehn",
     author_email="torsten@rehn.email",
     license="GPLv3",
